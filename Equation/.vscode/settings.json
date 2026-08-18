@@ -1,0 +1,17 @@
+{
+    "files.exclude": {
+        "**/.project": true,
+        "**/.cproject": true,
+        "**/.settings": true,
+        "**/Debug": false,
+        "**/Release": false
+    },
+    "search.exclude": {
+        "**/.project": true,
+        "**/.cproject": true,
+        "**/.settings": true,
+        "**/Debug": true,
+        "**/Release": true
+    },
+    "C_Cpp.default.compileCommands": "${workspaceFolder}/Debug/compile_commands.json"
+}
