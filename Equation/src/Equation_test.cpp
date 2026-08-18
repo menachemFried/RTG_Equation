@@ -1,9 +1,8 @@
-/*
- * Equation_test.cpp
- *
- *  Created on: 17 באוג׳ 2026
- *      Author: מנחם פריד
+/**
+ * @file Equation_test.cpp
+ * @brief Unit test file for Equation class.
  */
 
-#include "Equation.h"
+#include "Equation.hpp"
 
+// Unit test cases can be added here if needed.
